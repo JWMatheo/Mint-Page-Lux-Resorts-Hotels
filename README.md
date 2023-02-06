@@ -10,7 +10,7 @@ Allowing people to mint by bank card
 # Admin panel 
 Allow the administrator to access the administration features 
 
-#Features
+# Features
 - ERC721A contract to reduce gaz cost
 - CrossMint implementation
 - Reveal function
